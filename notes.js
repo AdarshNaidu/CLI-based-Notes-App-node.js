@@ -64,6 +64,9 @@ const loadNotes = () => {
     } 
 }
 
+//lgtm bot test
+const bot
+if (false) console.log(test);
 
 module.exports = {
     addNote: addNote,
